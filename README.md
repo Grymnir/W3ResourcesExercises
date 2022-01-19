@@ -1,1 +1,1 @@
-"# W3ResourcesExercises" 
+Exercises and solutions from w3resources. 
